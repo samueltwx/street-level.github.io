@@ -37,9 +37,9 @@ excerpt_separator: "\n\n"
 #baseurl: "" # does not include hostname
 
 # Outputting
-#permalink:     date
+permalink: /blog/:year/:month/:day/:title
 #paginate_path: /page:num
-#timezone:      null
+timezone: Asia/Singapore
 
 quiet:    false
 defaults: []
