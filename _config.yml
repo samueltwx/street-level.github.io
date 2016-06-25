@@ -37,7 +37,7 @@ excerpt_separator: "\n\n"
 #baseurl: "" # does not include hostname
 
 # Outputting
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
 #paginate_path: /page:num
 timezone: Asia/Singapore
 
