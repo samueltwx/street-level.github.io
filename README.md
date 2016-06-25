@@ -2,4 +2,4 @@
 A blog about Real Estate in Singapore. 
 
 
-Copyright Street Level
+Copyright © 2016 Street Level.
