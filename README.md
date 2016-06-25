@@ -1,2 +1,4 @@
-# street-level.github.io
-A blog about Real Estate in Singapore
+### Street Level
+A blog about Real Estate in Singapore. 
+
+Copyright Street Level.
