@@ -3,7 +3,7 @@ layout: default
 ---
 <ul class="posts">
 {% for post in site.posts %}
-  <li><span><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</span> &mdash; {{ post.date | date_to_string }}</a>
+  <li><span><h3><a href="{{ post.url }}" title=</a>"{{ post.title }}">{{ post.title }}</span> &mdash; {{ post.date | date_to_string }}</h3></a>
     <p>{{ post.excerpt }}</p></li>
     <br>
   {% endfor %}
