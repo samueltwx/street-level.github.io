@@ -13,7 +13,7 @@ After long discussions over lunches & shorter ones at the office watercooler, we
 
 That is why we started Street Level.
 
-###What is Street Level?
+<h3>What is Street Level?</h3>
 
 We are focused on all things related to real estate investments in Singapore. We will also discuss other topics we find useful, in terms of growing our hard earned income, working towards achieving some semblance of financial independence and personal finance tips we had found handy over the years.
 
