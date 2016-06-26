@@ -11,7 +11,7 @@ layout: feed
 	<id>http://street-level.github.io/</id>
 	<author>
 		<name>Street Level</name>
-		<email>street-level@gmail.com</email>
+		<email>streetlevel65@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
