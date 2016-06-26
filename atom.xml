@@ -5,7 +5,7 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Street Level</title>
-	<link href="http://street-level.github.io/atom.xml" rel="self"/>
+	<link href="{{ site.url }}/atom.xml" rel="self"/>
 	<link href="http://street-level.github.io"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://street-level.github.io/</id>
