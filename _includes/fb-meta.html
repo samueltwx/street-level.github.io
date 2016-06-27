@@ -1,4 +1,4 @@
-<meta property="fb:app_id" content="1144883565583225" />
+<meta property="fb:app_id" content="{{ site.fb_appid }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:type" content="{% if page.thumbnail %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
@@ -14,6 +14,3 @@
     <meta property="og:see_also" content="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% endfor %}
 {% endif %}
-
-<meta property="fb:admins" content="{{ site.fb_admins }}">
-<meta property="fb:app_id" content="{{ site.fb_appid }}">
