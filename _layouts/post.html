@@ -2,8 +2,12 @@
 layout: default
 ---
 <p class="meta">{{ page.date | date_to_long_string }}</p>
-{ % include fb-comments-SDK.html %}
 <div class="post">
   {{ content }}
 </div>
-{ % include fb-comments.html %}
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
