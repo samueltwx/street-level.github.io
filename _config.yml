@@ -20,6 +20,11 @@ limit_posts: 0
 future:      true
 unpublished: false
 
+# Facebook
+fb_admins:          https://www.facebook.com/kaiwei
+fb_appid:           1144883565583225
+avatar:             assets/SL_Logo.png
+
 # Plugins
 whitelist: []
 gems:      []
