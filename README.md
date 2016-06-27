@@ -1,5 +1,5 @@
 ### Street Level
-A blog about Real Estate in Singapore. 
+Real Estate Investing in Singapore
 
 
 Made in Singapore — Copyright © 2016 Street Level.
