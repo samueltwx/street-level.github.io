@@ -9,6 +9,6 @@ If you are launching a financial blog, what better day to do it than on [Brexit 
 
 For us Singaporeans, beyond a low pound rate for the foreseeable future, how exactly a Brexit will affect our personal finances is impossible to accurately predict just yet. In the near term, we believe US interest rates will remain stable for the rest of this year and likely into the next. This translates into continual low stable rates for Singapore as well and decreases the likelihood of a quick removal or positive amendment[^n] to the Additional Buyer's Stamp Duty. Residential property prices likely to continue their slow decline for the rest of this year.
 
-Nevertheless, the world has just gotten a lot more interesting with Brexit. On this historic day, with markets down and the Japanese Yen high, we welcome you to [Street Level](https://street-level.github.io/colophon/).
+Nevertheless, the world has just gotten a lot more interesting with Brexit. On this historic day, with markets down and the Japanese Yen high, we welcome you to [Street Level]({{ site.url }}/colophon/).
 
 [^n]:E.g. Lowering or removing the 7% tax on the second residential property for Singaporeans.
