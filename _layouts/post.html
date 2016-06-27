@@ -2,7 +2,7 @@
 layout: default
 ---
 <p class="meta">{{ page.date | date_to_long_string }}</p>
-
+{ % include fb-comments-SDK.html %}
 <div class="post">
   {{ content }}
 </div>
